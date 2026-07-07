@@ -1,6 +1,6 @@
 # Satellite Image Classification with CNN
 
-This project uses a Convolutional Neural Network (CNN) to classify satellite images into 10 different land-use classes.
+This project uses a deep learning approach, specifically a Convolutional Neural Network (CNN), to classify satellite images into 10 land-use categories.
 
 The project includes a Jupyter Notebook for training and evaluating the model, a trained PyTorch model, and a Shiny app that allows users to upload satellite images and receive a predicted class.
 
